@@ -10,4 +10,8 @@ playwright-report/
 test-results/
 .DS_Store
 team_distribution/
+DESIGN.md
+DECISIONS.md
+PRD.md
+TASKS.md
 
